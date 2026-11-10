@@ -1,0 +1,9 @@
+# Binaries
+bot-template-odin.exe
+bot-template-linux-odin
+*.bin
+*.o
+*.obj
+
+# Config secrets
+accounts.json

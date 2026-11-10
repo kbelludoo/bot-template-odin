@@ -1,0 +1,28 @@
+[
+  {
+    "id": "acc-1",
+    "name": "Personagem Exemplo Odin",
+    "enabled": true,
+    "bindIP": "",
+    "proxy": "",
+    "credentials": {
+      "email": "user@example.com",
+      "password": "secret_password",
+      "token": "bearer_jwt_token_here",
+      "sessionCookie": "session_cookie_here",
+      "origin": "https://example-game.com"
+    },
+    "settings": {
+      "huntTarget": "forest-1",
+      "autoHunt": true,
+      "autoSell": true,
+      "autoHeal": true,
+      "autoUpgrade": true,
+      "autoDaily": true,
+      "autoChests": true,
+      "autoParty": true,
+      "partyLeader": "LeaderName",
+      "killRate": 1.0
+    }
+  }
+]
